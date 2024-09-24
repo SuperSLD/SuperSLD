@@ -11,3 +11,5 @@
 4)  FractalsApp - приложение с красивыми фракталами.
 4)  kzt-library-android - приложение с онлайн хакатона в казахстане, написанное за вечер.
 5)  kzt-library-backend - бек на Spring для приложения с хакатона.
+
+![](https://github.com/SuperSLD/SuperSLD/blob/main/images/428.png?raw=true)
